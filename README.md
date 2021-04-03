@@ -8,5 +8,5 @@ cd BoilerCourses
 python run.py
 
 # Example
-![image](https://user-images.githubusercontent.com/66227218/113493988-5240cc80-94b2-11eb-88e9-37aa639ed4a8.png)
+![image](https://user-images.githubusercontent.com/66227218/113494025-ab106500-94b2-11eb-808b-5da99fe3ae06.png)
 
