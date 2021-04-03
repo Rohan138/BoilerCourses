@@ -38,7 +38,7 @@ Credit Hours: 0.00. Professional experience in aeronautics and astronautics. Pro
 cooperation of participating employers. Students submit summary report and company evaluation. Professional Practice
 students only. Permission of department required. Typically offered Fall Spring Summer.Credits: 0.00
 
-AAE 30000 - Undergraduate Junior Seminar
+AAE 30000 - Undergraduate Junior Seminar
 Credit Hours: 0.00. The courses are intended to provide a forum for guest speakers, organizational and informational
 meetings with undergraduates, and to provide a venue for discussion of professional development. Typically offered
 Fall Spring.Credits: 0.00
@@ -123,8 +123,7 @@ requirements into control solutions through the process of modeling, identificat
 Lead-Lag). Typically offered Fall Spring.Credits: 1.00
 
 AAE 38199 - Professional Practice Co-Op I
-
-Credit Hours: 0.00. To obtain professional practice with qualified employers within industry, government, or small
+Credit Hours: 0.00. To obtain professional practice with qualified employers within industry, government, or small
 business. Professional Practice students only. Permission of department required. Typically offered Fall Spring
 Summer.Credits: 0.00
 
@@ -166,8 +165,7 @@ writing, and ethics. Assessment of student achievement of AAE program learning o
 Spring.Credits: 1.00
 
 AAE 41200 - Introduction To Computational Fluid Dynamics
-
-Credit Hours: 3.00. Introductory course in the formulation and application of finite difference methods for solving fluid
+Credit Hours: 3.00. Introductory course in the formulation and application of finite difference methods for solving fluid
 flow problems. Classification of partial differential equations and formulation of well-posed problems. Discrete
 approximation of partial differential equations: stability, consistency, and convergence. Finite-volume formulations.
 Survey of methods for solving hyperbolic, elliptic, and parabolic problems. Formulation of discrete boundary
@@ -211,8 +209,7 @@ satellites in circular and elliptic orbits. Spin stabilization and gravity gradi
 dissipation. Introduction to attitude control. Typically offered Spring.Credits: 3.00
 
 AAE 45000 - Spacecraft Design
-
-Credit Hours: 3.00. Senior students perform a team-based spacecraft design, requiring application of the education and
+Credit Hours: 3.00. Senior students perform a team-based spacecraft design, requiring application of the education and
 skills developed in the aerospace curriculum. Components include analysis methods for preliminary design,
 development of an initial vehicle concept, and development of a complete numerical model of the mission, culminating
 in oral and written reports by the teams. Typically offered Fall Spring.Credits: 3.00
@@ -255,7 +252,7 @@ and functionals, necessary conditions, calculus of variations, control formulati
 Applications to typical problems in aerospace engineering, such as optimal launch, minimum time to climb, maximum
 range, and optimal space trajectories. Typically offered Spring.Credits: 3.00
 
-AAE 51100 - Introduction To Fluid Mechanics
+AAE 51100 - Introduction To Fluid Mechanics
 Credit Hours: 3.00. The basic conservation equations are derived for a compressible viscous fluid, and then are
 specialized for applications in potential flow, viscous flow, and gas dynamics. Typically offered Fall.Credits: 3.00
 
@@ -294,8 +291,7 @@ mechanics. Computer data acquisition, wind tunnels, force balances, flow visuali
 anemometry, laser Doppler velocimetry and turbulence measurements. Typically offered Spring.Credits: 3.00
 
 AAE 52300 - Introduction To Remote Sensing
-
-Credit Hours: 3.00. Fundamentals of satellite and airborne remote sensing. Basic physical principles of electromagnetic
+Credit Hours: 3.00. Fundamentals of satellite and airborne remote sensing. Basic physical principles of electromagnetic
 wave propagation will be introduced. From this foundation, the phenomenology's enabling properties of the
 atmosphere; ocean and land surface to be measured at a distance will be developed. These principles will be applied to
 the design of instruments and satellite missions for Earth observation. Microwave instruments will be emphasized,
@@ -340,7 +336,7 @@ handbooks or design manuals. This course introduces stress wave propagation in s
 characterization and understanding of high-rate response of materials. Then, the theoretical background and working
 principles of high-rate experimental methods are presented to characterize the material response under high-rate
 
-loading conditions. Finally, rate-dependent material models are introduced to describe the dynamic material behavior
+loading conditions. Finally, rate-dependent material models are introduced to describe the dynamic material behavior
 and deformation mechanisms. Typically offered Fall.Credits: 3.00
 
 AAE 54600 - Aerospace Structural Dynamics And Stability
@@ -383,8 +379,7 @@ engineering. Design for assembly/manufacture. Projects allow for application and
 Typically offered Fall.Credits: 3.00
 
 AAE 55200 - Nondestructive Evaluation Of Structures And Materials
-
-Credit Hours: 3.00. Overview of methods employed for nondestructive evaluation of structures and materials taught in
+Credit Hours: 3.00. Overview of methods employed for nondestructive evaluation of structures and materials taught in
 the context of damage tolerant structural analysis. Major inspection topics include: radiography, ultrasonics, eddy
 current, penetrant, magnetic, and visual/optical techniques. Other new emerging inspection techniques also are
 discussed. Offered in alternate years. Typically offered Spring.Credits: 3.00
@@ -428,7 +423,7 @@ complexity; network topology analysis and agent-based simulation models; archite
 system-of-systems problems. Some background in probability and statistics (e.g. random variables, probability density
 and distributions, sampling methods) is expected. Typically offered Spring.Credits: 3.00
 
-AAE 56100 - Introduction To Convex Optimization
+AAE 56100 - Introduction To Convex Optimization
 Credit Hours: 3.00. (IE 56100) Introduction to convex analysis, convex optimization problems, algorithms of convex
 optimization and measures of their complexity, and application of convex optimization in aerospace engineering.
 Recognition of convex optimization problems that arise in scientific and engineering applications. Introduction to
@@ -471,7 +466,7 @@ Economics and Scheduling; and Airline Fight Operations and Air Traffic Control. 
 positions in the civil aviation industry and for graduate research in civil aviation topics. Permission of instructor
 required. Typically offered Fall.Credits: 3.00
 
-AAE 59000 - Projects In Aeronautical Engineering
+AAE 59000 - Projects In Aeronautical Engineering
 Credit Hours: 1.00 to 6.00. Topics vary - projects in Aeronautical Engineering. Permission of instructor required.
 Typically offered Fall Spring.Credits: 1.00 to 6.00
 
@@ -513,8 +508,7 @@ prediction. Effects of compressibility, heating, roughness, turbulence, noise, c
 extent of transitional flow. Prerequisite: AAE 51100. Typically offered Fall.Credits: 3.00
 
 AAE 62600 - Turbulence And Turbulence Modeling
-
-Credit Hours: 3.00. Physical description of turbulence. Reynolds averaged equations. Scaling of basic turbulent flows.
+Credit Hours: 3.00. Physical description of turbulence. Reynolds averaged equations. Scaling of basic turbulent flows.
 Homogeneous turbulence, spectra and two-point correlations. Hierarchy of turbulence models, including zero-, one-,
 and two-equation models, Reynolds stress models, large eddy simulations, and direct numerical simulations. Additional
 topics, such as compressibility effects on turbulence and probability density function methods, as time allows.
@@ -559,8 +553,7 @@ projects, where the student chooses the topic of the third and final project. Pr
 Typically offered Spring.Credits: 3.00
 
 AAE 65400 - Fracture Mechanics
-
-Credit Hours: 3.00. Methods of stress analysis in elastic media containing cracks. Fracture criteria. The strain energy
+Credit Hours: 3.00. Methods of stress analysis in elastic media containing cracks. Fracture criteria. The strain energy
 release rate and J-integral. Crack tip plasticity. Interface cracks. Cracks in anisotropic solids. Bending of cracked plates.
 Dynamic crack propagation. Prerequisite: AAE 55300. Typically offered Spring.Credits: 3.00
 
@@ -601,7 +594,7 @@ Summer.Credits: 1.00 to 18.00
 Aerospace Studies
 AFT 11000 - Foundations Of Air Force I
 
-Credit Hours: 1.00. A survey of officership, professionalism, communications skills, the organization of the Air Force,
+Credit Hours: 1.00. A survey of officership, professionalism, communications skills, the organization of the Air Force,
 and the missions of the various Air Force major commands. Emphasis is placed on helping students understand what
 they would experience as an Air Force officer. Typically offered Fall.Credits: 1.00
 
@@ -643,8 +636,7 @@ correcting, and evaluating the preceding skills, and study the Air Force officer
 Spring.Credits: 1.00
 
 AFT 35100 - Air Force Leadership Studies I
-
-Credit Hours: 3.00. Focuses on a study of leadership and management fundamentals, leadership ethics, and
+Credit Hours: 3.00. Focuses on a study of leadership and management fundamentals, leadership ethics, and
 communicative skills required of Air Force lieutenants. Case studies are used to examine Air Force leadership and
 management situations to demonstrate and exercise practical application of concepts being studied. Typically offered
 Fall.Credits: 3.00
@@ -687,7 +679,6 @@ coordinating, and directing of military activities for the cadet corps; provide 
 the understanding, motivation, and performance of other cadets. Prepare for active duty. Typically offered
 Spring.Credits: 1.00
 
-African American Studies
 AAS 27100 - Introduction To African American Studies
 Credit Hours: 3.00. Introduction to the philosophical and methodological principles underlying Afro-American studies.
 Dimensions of the black experience, including history, education, politics, psychology, economics, religion, social
@@ -726,8 +717,7 @@ American males and the positive ways of coping with that experience. Includes an
 defining current knowledge on the subject. Typically offered Fall Spring.Credits: 3.00
 
 AAS 37700 - African American Sexuality And Society
-
-Credit Hours: 3.00. This course focuses on the history of ideas, approaches, and paradigms that have shaped and
+Credit Hours: 3.00. This course focuses on the history of ideas, approaches, and paradigms that have shaped and
 defined our understanding of Black sexuality through engaging stereotypes, symbols, and images that have influenced
 the sexual attitudes and behavior of African Americans. Typically offered Summer Fall Spring.Credits: 3.00
 
