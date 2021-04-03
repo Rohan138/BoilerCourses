@@ -11,8 +11,6 @@ def clean(desc):
     desc = desc.replace('\x0c', '')
     end = desc.find('Typically offered')
     desc = desc[19:end]
-    desc = desc.lower()
-    desc = desc.translate(str.maketrans('','', string.punctuation))
     desc = desc.strip()
     return desc
 

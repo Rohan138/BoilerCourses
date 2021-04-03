@@ -4,6 +4,7 @@ from gensim.parsing.preprocessing import STOPWORDS
 import gensim.downloader as api
 import pandas as pd
 import numpy as np
+import string
 import csv
 from tqdm import trange
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -19,6 +20,8 @@ descs = data['Description']
 print('Parsing Descriptions')
 for i in trange(len(descs)):
     desc = descs[i]
+    desc = desc.lower()
+    desc = desc.translate(str.maketrans('','', string.punctuation))
     words = desc.split()
     scores = np.zeros([dim])
     for word in words:
