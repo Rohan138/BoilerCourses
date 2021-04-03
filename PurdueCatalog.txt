@@ -17080,8 +17080,7 @@ education. Historical, sociological, cultural, political, philosophical, and ped
 are explored and related to issues of pedagogy in a pluralistic society. Typically offered Fall Spring Summer.Credits:
 3.00
 
-EDCI 30500 - The Teaching Of Modern Foreign Languages In The Elementary
-Schools
+EDCI 30500 - The Teaching Of Modern Foreign Languages In The Elementary Schools
 
 Credit Hours: 3.00. Lectures and discussions on the place of modern foreign languages in the elementary school
 curriculum and on current methods and materials for teaching modern foreign languages at this level; workshop
@@ -17214,8 +17213,7 @@ language development in the school context. Students will learn to identify chil
 English, to design classroom experiences across the curriculum, and to assess student performance using current WIDA
 standards. Typically offered Fall Spring Summer.Credits: 3.00
 
-EDCI 38100 - Teaching For Social Justice: Culturally And Linguistically Diverse
-Learners
+EDCI 38100 - Teaching For Social Justice: Culturally And Linguistically Diverse Learners
 
 Credit Hours: 3.00. This course builds on the content of EDCI 28500 (Multicultural Education) with specific attention
 to issues of social justice related to literacy and linguistic diversity. Within this framework, students will learn
@@ -17245,8 +17243,7 @@ Credit Hours: 3.00. The purpose of this course is the development of a theoretic
 necessary to teach social studies to middle and high school students. Students are introduced to the general issues
 involved in planning and organizing a social studies curriculum. Typically offered Summer Fall Spring.Credits: 3.00
 
-EDCI 42400 - The Teaching Of Earth And Physical Science In The Secondary
-Schools
+EDCI 42400 - The Teaching Of Earth And Physical Science In The Secondary Schools
 Credit Hours: 3.00. The methods and materials needed for the teaching of chemistry, earth-space, physics, and general
 science in the secondary schools, including field experience. No undergraduate students may be enrolled in any of these
 undergraduate courses until they have been admitted to teacher education. May be taken for two credits (no field
@@ -17473,8 +17470,7 @@ organizations is emphasized. Typically offered Fall Spring Summer.Credits: 3.00
 EDCI 53000 - English Language Development
 Credit Hours: 3.00. Focuses on theoretical and practical knowledge for teachers about how second languages are
 learned, and on the educational and philosophical basis for second language teaching and learning. Links English
-
-language development to teaching and learning strategies and is designed for undergraduate and graduate students in
+language development to teaching and learning strategies and is designed for undergraduate and graduate students in
 education and practicing teachers. Typically offered Fall Spring Summer.Credits: 3.00
 
 EDCI 53100 - Learning Theories And Instructional Design
@@ -17689,8 +17685,7 @@ Summer.Credits: 3.00
 EDCI 57200 - Introduction To Learning Systems Design
 Credit Hours: 3.00. An introduction to the principles of designing instructional materials and to instructional
 communication theory and techniques. Topics include objectives, student characteristics, media selection,
-communication variables, message design, and systematic evaluation. Typically offered Fall Spring Summer.Credits:
-3.00
+communication variables, message design, and systematic evaluation. Typically offered Fall Spring Summer.Credits: 3.00
 
 EDCI 57300 - Instructional Development Practicum
 Credit Hours: 2.00 or 3.00. Provides supervised field experience in programs involving instructional design
@@ -25671,10 +25666,8 @@ Credit Hours: 3.00. Introduces rationale, application, and nature of health prom
 settings, providing students with a conceptual framework of the health/fitness and health promotion discipline. Students
 will be introduced to various professional opportunities in the field. Typically offered Fall Spring.Credits: 3.00
 
-HK 26900 - Career Development And Preparation For The Health And Fitness
-Fields
-
-Credit Hours: 1.00. Provides students with basic professional skills and materials for subsequent practicum experience
+HK 26900 - Career Development And Preparation For The Health And Fitness Fields
+Credit Hours: 1.00. Provides students with basic professional skills and materials for subsequent practicum experience
 and future employment search. Students will have secured a viable practicum site, complete with written job
 description/responsibilities, at the completion of the course. Typically offered Fall Spring.Credits: 1.00
 
@@ -25718,7 +25711,7 @@ fabrication, lower extremity injury evaluation, taping and bracing. Typically of
 
 HK 30600 - Injury Assessment II
 
-Credit Hours: 4.00. A continuation of HK 30500. A guided lecture and laboratory experience designed to teach the
+Credit Hours: 4.00. A continuation of HK 30500. A guided lecture and laboratory experience designed to teach the
 student injury assessment techniques of the upper extremity, head, neck, abdomen, and thorax, along with associated
 taping, padding, and bracing. Typically offered Spring.Credits: 4.00
 
@@ -28638,8 +28631,7 @@ Credit Hours: 1.00 to 18.00. Research PhD Thesis. Permission of instructor requi
 Summer.Credits: 1.00 to 18.00
 
 Human Development and Family Studies
-HDFS 10000 - Orientation To Current Issues In Human Development And Family
-Studies
+HDFS 10000 - Orientation To Current Issues In Human Development And Family Studies
 
 Credit Hours: 1.00. Introduction to fields related to Human Development and Family studies, including majors and
 career paths. You will meet faculty, alumni, and professionals working in related areas. You will be matched with an
@@ -28684,8 +28676,7 @@ perspectives. Typically offered Fall Spring.Credits: 3.00
 HDFS 31000 - Guidance In Early Childhood
 Credit Hours: 3.00. This course presents a developmental, child-centered approach to the guidance and discipline of
 young children, including children with disabilities. Influential theories, relevant research, and effective guidance
-
-methods for the early childhood teachers and other professionals working with young children and families, including
+methods for the early childhood teachers and other professionals working with young children and families, including
 families from different cultural and economic backgrounds, are discussed. Admitted to Gate B. Typically offered
 Spring.Credits: 3.00
 
@@ -30391,8 +30382,7 @@ Credit Hours: 3.00. This course surveys all areas of Japanese Linguistics, inclu
 syntax, semantics, and pragmatics, focusing on systematizing fragmentary knowledge students are assumed to have
 acquired through Japanese language courses. Typically offered Fall Spring.Credits: 3.00
 
-JPNS 36200 - The Structure Of Japanese II: Advanced Sentence Structure And
-Applied Linguistics
+JPNS 36200 - The Structure Of Japanese II: Advanced Sentence Structure And Applied Linguistics
 
 Credit Hours: 3.00. Presents the structure of Japanese complex sentences as well as selected aspects of inter-sentential
 structures, and treats selected sociolinguistic and psycholinguistic aspects of the language. Typically offered Fall
@@ -35456,8 +35446,7 @@ Credit Hours: 1.00. Strategies for preparation of grant proposals; generating id
 Lecture and laboratory periods will alternate each week (i.e., lecture week one, laboratory week two). Permission of
 department required. Typically offered Fall.Credits: 1.00
 
-MCMP 69000 - Special Topics In Medicinal Chemistry And Molecular
-Pharmacology
+MCMP 69000 - Special Topics In Medicinal Chemistry And Molecular Pharmacology
 
 Credit Hours: 0.00 to 6.00. Special topics, projects, or laboratory exercises in selected areas of medicinal chemistry
 and molecular pharmacology. Permission of instructor required. Typically offered Fall Spring.Credits: 0.00 to 6.00
@@ -43534,8 +43523,7 @@ Topics covered may include forging strategic alliances, negotiating contracts, m
 multinational workforce, identifying emerging markets, and driving innovation. Typically offered Fall Spring
 Summer.Credits: 3.00
 
-TLI 36100 - Engineering And Technology Education Instructional Planning And
-Evaluation
+TLI 36100 - Engineering And Technology Education Instructional Planning And Evaluation
 
 Credit Hours: 3.00. This course addresses selecting content, writing instructional objectives, planning lessons,
 preparing a unit of study, and evaluating student progress. Emphasis is placed on evaluating instruction and student

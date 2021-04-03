@@ -11,7 +11,6 @@ v2w_model = api.load('glove-wiki-gigaword-300')
 dim = v2w_model.vector_size
 
 data = pd.read_csv('catalog.csv')
-
 nwords = 0
 desc_scores = []
 descs = data['Description']
