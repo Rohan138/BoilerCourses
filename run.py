@@ -16,25 +16,33 @@ mul = vec@vec.T
 
 courses = data['Course']
 while True:
-    course = input("Enter course to reference or q to quit: ")
-    if course not in courses:
-        if course != 'q':
-            print('Course not found')
+    course = input("Enter course code e.g. (AAE 20300) or q to quit: ")
+    if course == 'q':
         print('Quitting')
-        sys.exit(1)
-
-    k = input('Enter number of courses to find: ')
-    school, number = course.split()
+        sys.exit(0)
     index = data[data['Course'] == course]['Index']
-    common = data[data['School'] == school]
-    other = data[data['School'] != school]
+    if index.empty:
+        print('Course not found')
+        continue
+    k = int(input('Enter number of similar courses to find: '))
+    school, number = course.split()
+
+    common = data[(data['School'] == school) & (data['Course'] != course)]
     common_index = common['Index']
-    other_index = other['Index']
     common_mul = np.take(mul[index], common_index, axis=1)
-    other_mul = np.take(mul[index], other_index, axis=1)
     common_max = top_k(common_mul, k)
+    common_vals = np.take(common_index, common_max, axis=1)
+    common_courses = data[data['Index'].isin(common_vals)]
+
+    other = data[data['School'] != school]
+    other_index = other['Index']
+    other_mul = np.take(mul[index], other_index, axis=1)
     other_max = top_k(other_mul, k)
-    common_courses = data[data['Index'].isin(common_max)]
-    other_courses = data[data['Index'].isin(other_max)]
+    other_vals = np.take(other_index, other_max, axis=1)
+    other_courses = data[data['Index'].isin(other_vals)]
+
+    print(f'Similar courses in {school}:')
     print(common_courses)
+    print(f'Similar courses not in {school}:')
     print(other_courses)
+    print('')
