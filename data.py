@@ -45,8 +45,7 @@ descs.append(desc)
 for i in range(len(courses)):
     courses[i].append(descs[i])
 
-print(courses[0])
-
 with open('catalog.csv', 'w', newline="") as f:
     writer = csv.writer(f)
+    writer.writerow(['Course', 'Title', 'Description'])
     writer.writerows(courses)
