@@ -1,5 +1,6 @@
 import re
 import csv
+import string
 
 lines = None
 lnums = []
@@ -10,22 +11,29 @@ def clean(desc):
     desc = desc.replace('\x0c', '')
     end = desc.find('Typically offered')
     desc = desc[19:end]
+    desc = desc.lower()
+    desc = desc.translate(str.maketrans('','', string.punctuation))
     desc = desc.strip()
     return desc
 
 with open('PurdueCatalog.txt') as infile:
     lines = infile.readlines()
 
+j = 0
 for i, line in enumerate(lines):
     line = line.replace('\x0c', '')
     match = re.search(r'\d{5} -', line)
     if match:
         lnums.append(i)
+        start = match.span()[0]
         end = match.span()[1]
-        course = line[0:end - 2]
+        clg = line[0:start - 1]
+        num = line[start: end - 2]
+        course = line[0: end - 2]
         title = line[end:]
         title = title.strip()
-        courses.append([course, title])
+        courses.append([j, course, clg, num, title])
+        j += 1
 
 descs = []
 for i in range(len(lnums) - 1):
@@ -50,5 +58,5 @@ for i in range(len(courses)):
 
 with open('catalog.csv', 'w', newline="") as f:
     writer = csv.writer(f)
-    writer.writerow(['Course', 'Title', 'Description'])
+    writer.writerow(['Index', 'Course', 'School', 'Number', 'Title', 'Description'])
     writer.writerows(courses)
