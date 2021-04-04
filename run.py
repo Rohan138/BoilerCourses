@@ -21,6 +21,7 @@ while True:
         print('Quitting')
         sys.exit(0)
     index = data[data['Course'] == course]['Index']
+    print(data[data['Course'] == course])
     if index.empty:
         print('Course not found')
         continue
