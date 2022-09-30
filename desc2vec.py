@@ -14,7 +14,7 @@ dim = v2w_model.vector_size
 
 data = pd.read_csv('catalog.csv')
 size = len(data)
-nwords = 0
+not_words = 0
 desc_scores = np.zeros([size, dim])
 descs = data['Description']
 print('Parsing Descriptions')
@@ -30,7 +30,7 @@ for i in trange(len(descs)):
         try:
             scores += v2w_model[word]
         except KeyError:
-            nwords += 1
+            not_words += 1
     scores /= len(words)
     mean = np.mean(scores)
     std = np.std(scores)
